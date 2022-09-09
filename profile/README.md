@@ -19,3 +19,11 @@ Even though our strength lies in creating free tools, OpenAlly **has no plans or
 | [NodeSecure](https://github.com/NodeSecure) | [NodeLint](https://github.com/Nodelint) | [TopCli](https://github.com/TopCli) | [Dashlog](https://github.com/Dashlog) |
 | :---: | :---: | :---: | :---: |
 | <img src="https://avatars.githubusercontent.com/u/85318671?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/75527947?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/95156711?s=200&v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/112749817?s=200&v=4" width="100"> |
+
+## Community
+
+[![discord](https://discordapp.com/api/guilds/640183220452720650/embed.png?style=banner2)](https://discord.gg/4Wn8rjAtB4)
+
+## Sponsors
+
+TBC
