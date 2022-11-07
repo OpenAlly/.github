@@ -1,16 +1,15 @@
-**OpenAlly** is an opiniated and non-neutral initiative born from the ashes of [SlimIO](https://github.com/SlimIO).
+**OpenAlly** is an opiniated initiative born from the ashes of [SlimIO](https://github.com/SlimIO).
 We are open source contributors with the desire to build **tools** and a **community** that bring value to developers (mainly in JavaScript to date).
 
 To this end we have built an alliance to **mutualize value and expertise** between several distinct projects and organizations.
 One of the key ideas is to be able to build a **family of tools** that will provide functionality and support to each other.
 
 The alliance members will *support* broader challenges such as:
-- Discussing adequate project governance.
 - Ensuring the safety of projects and their dependencies.
-- Help to engage new contributors and help maintainers to reduce their mental and work load.
+- Help to engage new contributors.
 - Searching for sponsors and funding.
 
-Even though our strength lies in creating free tools, OpenAlly **has no plans or will to restrict** members from developing a professional offer.
+Even though our strength lies in creating free tools, OpenAlly has the **hope** to find sustainable financial models for his members.
 
 > **Note** We also have no intention of being more prominent than our member projects.
 
