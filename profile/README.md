@@ -11,8 +11,6 @@ The alliance members will *support* broader challenges such as:
 
 Even though our strength lies in creating free tools, OpenAlly has the **hope** to find sustainable financial models for his members.
 
-> **Note** We also have no intention of being more prominent than our member projects.
-
 ## Members
 
 Members are organizations that **contribute** to this initiative. Each one constitutes the identity and the image of the OpenAlly project, which can only exist by the **contract** which **binds them all** together.
