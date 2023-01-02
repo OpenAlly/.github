@@ -24,7 +24,3 @@ Members are organizations that **contribute** to this initiative. Each one const
 If you wish to exchange, discuss or contribute, do not hesitate to join us on our Discord
 
 [![discord](https://discordapp.com/api/guilds/640183220452720650/embed.png?style=banner2)](https://discord.gg/4Wn8rjAtB4)
-
-## Sponsors
-
-TBC
